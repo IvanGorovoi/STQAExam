@@ -1,0 +1,2 @@
+public class LandromatTest {
+}
